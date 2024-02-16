@@ -1,0 +1,84 @@
+/* Apply basic styles to the flex container */
+.flex {
+    display: flex;
+    flex-direction: column; /* Arrange items vertically */
+    align-items: center; /* Center items horizontally */
+}
+
+/* Apply styles to the input field */
+#email {
+    width: 100%; /* Set width to fill the container */
+    height: 40px; /* Set a fixed height */
+    margin-bottom: 10px; /* Add some spacing between the input and button */
+    padding: 0 10px; /* Add horizontal padding */
+    box-sizing: border-box; /* Include padding in the width */
+}
+
+/* Apply styles to the button */
+.btn {
+    width: 100%; /* Set width to fill the container */
+    height: 40px; /* Set a fixed height */
+    background-color: orange; /* Button background color */
+    color: white; /* Button text color */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: background-color 0.3s; /* Smooth transition for background color change */
+}
+
+/* Change button background color on hover */
+.btn:hover {
+    background-color: darkorange;
+}
+
+/* Media query for tablets and larger devices */
+@media screen and (min-width: 768px) {
+    .flex {
+        max-width: 600px; /* Limit width for larger screens */
+    }
+
+    #email {
+        width: calc(50% - 5px); /* Set width to 50% minus some spacing */
+        margin-right: 10px; /* Add spacing between input and button */
+        margin-bottom: 0; /* Remove margin bottom */
+    }
+
+    .w-full {
+        border-radius: 10px; /* Add border radius */
+        background-color: rgb(241, 104, 13); /* Set background color to orange */
+        color: white; /* Set text color to white */
+        padding: 6px 12px; /* Add padding */
+        cursor: pointer; /* Change cursor to pointer on hover */
+        transition: background-color 0.3s; /* Smooth transition for background color change */
+    }
+    
+    /* Change button background color on hover */
+    .w-full:hover {
+        background-color: rgb(241, 104, 13);
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column; /* Arrange items vertically */
+        justify-content: center;
+        align-items: center;
+    
+    }
+    
+    /* Style for each set of links */
+    .links-container {
+        margin-bottom: 50px; /* Adds space between link sets */
+    }
+    
+/* Apply flexbox to the link sets*/
+.links-container {
+    margin-bottom: 50px; /* Adds space between link sets */
+    margin-left: 20px; /* Add margin on the left side */
+    padding: 0; /* Remove default padding */
+}
+
+/* Style for individual links*/ 
+.links-container .links li a {
+    margin-bottom: 5px; /* Adds space between each link */
+    display: block; /* Ensures each link takes up a full line */
+}
