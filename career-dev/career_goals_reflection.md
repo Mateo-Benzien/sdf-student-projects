@@ -30,14 +30,14 @@ List your current skills and areas of expertise.
 2/Problem-solving skills
 
 3/Good time management skills
- ________________________________________________
+
 
 Identify skills you need to develop or improve.
 
 1/Accuracy and attention to detail
 
 2/Technical skills to build programs
- ________________________________________________		
+	
 Interests and Values:
 Describe your key interests related to your career.
 
