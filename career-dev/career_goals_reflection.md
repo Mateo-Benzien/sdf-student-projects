@@ -33,12 +33,14 @@ List your current skills and areas of expertise.
  
 
 Identify skills you need to develop or improve.
+
 1/Accuracy and attention to detail
 
 2/Technical skills to build programs
 		
 Interests and Values:
-	Describe your key interests related to your career.
+Describe your key interests related to your career.
+
 1/Passion for technology
 
 2/Problem solving in complex challenges
@@ -46,7 +48,9 @@ Interests and Values:
 3/Collaborating with other developers
 
 4/Learning more about the field
- ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------------------------------
+
 Part 2: Career Exploration Insights
 
 Industries and Roles Explored:
@@ -54,8 +58,9 @@ List the industries or roles you have researched.
 
 1/Amazon (Industry where I would like to work)
 
-2/Front-end Developer  (Application developer or software architects)  Responsible for developing, modifying, updating, testing and debugging the source code for software application.)
-Back-end Developer  (Responsible for the server-side of the application. They also write clean code for developing a new application, performing UI testing, troubleshooting and debugging the application, employing the latest technologies to improve legacy applications, and building reusable codes and libraries)
+1/Front-end Developer  (Application developer or software architects)  Responsible for developing, modifying, updating, testing and debugging the source code for software application.)
+
+2/Back-end Developer  (Responsible for the server-side of the application. They also write clean code for developing a new application, performing UI testing, troubleshooting and debugging the application, employing the latest technologies to improve legacy applications, and building reusable codes and libraries)
 
 3/Game Developer (Responsible for constructing a game engine and translating requirements into complicated yet clean code. The primary job responsibilities of a game developer are producing prototypes, animating characters, and generating game scripts. 
 
@@ -77,21 +82,26 @@ Identify any gaps or areas for further exploration.
 
 	
  1/Short-term Goals (Next 1-2 years):
-	List your specific, measurable, achievable, relevant, and time-bound goals.
-	Explain the rationale behind each goal.
+List your specific, measurable, achievable, relevant, and time-bound goals.
+Explain the rationale behind each goal.
  
 Next year:  Complete development at CodeSpace
+
 Year 2:  Apply at Amazon for Software Developer role
 
 2/Long-term Goals (3-5 years and beyond):
-	Outline your long-term career aspirations.
-	Describe how these align with your interests and skills.
+
+Outline your long-term career aspirations.
+Describe how these align with your interests and skills.
+
 3 – 5 years:  Complete internship at Amazon for Game Developer
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Part 4: Action Plan
 
 1/Steps to Achieve Short-term Goals:
+
 Detail specific actions or steps needed to achieve each short-term goal.
 Include any resources or support required.
 
